@@ -1,2 +1,2 @@
 # Visual Studio Settings
-*cpp	diff=cpp
+*.cpp	diff=cpp
